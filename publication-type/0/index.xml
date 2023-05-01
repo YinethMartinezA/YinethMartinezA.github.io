@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Sergio Velarde</title>
+    <link>https://servelarde.github.io/publication-type/0/</link>
+      <atom:link href="https://servelarde.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://servelarde.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://servelarde.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://servelarde.github.io/working_paper/adaptive-pid-speed-control-of-a-permanent-magnet-synchronous-motor-with-halbach-array/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://servelarde.github.io/working_paper/adaptive-pid-speed-control-of-a-permanent-magnet-synchronous-motor-with-halbach-array/</guid>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;Guarin, S., Velarde, S., Castaño, E., &amp;amp; Molina-Cabrera, A. (2021). Construction and Simulation of a Planar Transformer Prototype. Transactions on Energy Systems and Engineering Applications, 2(2), 1–7. &lt;a href=&#34;https://doi.org/10.32397/tesea.vol2.n2.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.32397/tesea.vol2.n2.1&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Velarde, S., Giraldo, E. &amp;amp; Molina-Cabrera, A. (2023) Adaptive PID Speed Control of a Permanent Magnet Synchronous Motor with Halbach Array&lt;/li&gt;
+&lt;li&gt;Velarde, S., Giraldo, E. (2023) Design and Implementation of a Double-Inverted Pendulum for Embedded Control&lt;/li&gt;
+&lt;li&gt;Velarde, S., Giraldo, E. (2023) Robust State Space Embedded Control of a 3D Printed Permanent Magnet Synchronous Motor, Under Review&lt;/li&gt;
+&lt;li&gt;Velarde, S., Giraldo, E. &amp;amp; Molina-Cabrera, A. (2023) Model-based Adaptive Control of a 3D Printed Permanent Magnet Synchronous Motor, Under Review&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
