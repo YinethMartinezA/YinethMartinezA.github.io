@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Sergio Velarde</title>
-    <link>https://servelarde.github.io/tag/demo/</link>
-      <atom:link href="https://servelarde.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Demo | Yineth Martinez</title>
+    <link>https://YinethMartinezA.github.io/tag/demo/</link>
+      <atom:link href="https://YinethMartinezA.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servelarde.github.io/media/icon_huecd90ba861c99285ce5c3a5986b8d888_208808_512x512_fill_lanczos_center_3.png</url>
+      <url>https://YinethMartinezA.github.io/media/icon_huecd90ba861c99285ce5c3a5986b8d888_208808_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://servelarde.github.io/tag/demo/</link>
+      <link>https://YinethMartinezA.github.io/tag/demo/</link>
     </image>
     
     <item>
       <title>External Project</title>
-      <link>https://servelarde.github.io/project/external-project/</link>
+      <link>https://YinethMartinezA.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://servelarde.github.io/project/external-project/</guid>
+      <guid>https://YinethMartinezA.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
